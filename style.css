@@ -1,0 +1,12 @@
+.başlık-bir {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+  font-variation-settings: "wdth" 500;
+  margin-left: 850px;
+}
+
+div {
+  flex-direction: column;
+}
